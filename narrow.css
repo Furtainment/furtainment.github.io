@@ -3,6 +3,8 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: #EB0441;
+  background-image: url("redblocks.png");
+  background-repeat: repeat-x;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
