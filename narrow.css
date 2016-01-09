@@ -115,7 +115,7 @@
   text-decoration:none;
 }
 
- .btn.btn-lg.btn-default{
+ .btn.btn-default.button-large{
   background:-webkit-gradient(linear, 0 100%, 0 0%, from(#880223), to(#BA0330));
   border-color:#79021F #6F021D #600219;
   border-radius:0.25em;
