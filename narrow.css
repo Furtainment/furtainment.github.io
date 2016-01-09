@@ -78,6 +78,13 @@ body {
   .header {
     margin-bottom: 30px;
   }
+  .btn.btn-lg.btn-default{
+    border-style:solid;
+    border-width:1px;
+    border-color:#fff;
+    background-image: linear-gradient(to bottom, rgb(204, 81, 81), #990000);
+    text-align: left;
+}
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
