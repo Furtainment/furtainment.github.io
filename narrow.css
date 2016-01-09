@@ -70,6 +70,7 @@ body {
   .footer {
     padding-right: 0;
     padding-left: 0;
+    text-align: center;
   }
   /* Space out the masthead */
   .header {
