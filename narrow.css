@@ -27,6 +27,19 @@
   border-top: 1px solid #e5e5e5;
 }
 
+.fa.fa-github-square.fa-2x {
+    color: #6F021D;
+}
+.fa.fa-twitter-square.fa-2x {
+    color: #6F021D;
+}
+.fa.fa-youtube-square.fa-2x {
+    color: #6F021D;
+}
+.fa.fa-paw.fa-2x {
+    color: #6F021D;
+}
+
 /* Customize container */
 @media (min-width: 768px) {
   .container {
@@ -53,6 +66,19 @@
 }
 .marketing p + h4 {
   margin-top: 28px;
+}
+
+.fa.fa-github-square.fa-2x {
+    color: #6F021D;
+}
+.fa.fa-twitter-square.fa-2x {
+    color: #6F021D;
+}
+.fa.fa-youtube-square.fa-2x {
+    color: #6F021D;
+}
+.fa.fa-paw.fa-2x {
+    color: #6F021D;
 }
 
 /* Responsive: Portrait tablets and up */
