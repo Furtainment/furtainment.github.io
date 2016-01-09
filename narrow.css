@@ -57,7 +57,7 @@
 }
 .jumbotron .btn {
   padding: 14px 24px;
-  font-size: 41px;
+  font-size: 21px;
 }
 
 /* Supporting marketing content */
@@ -97,7 +97,7 @@
   .header {
     margin-bottom: 30px;
   }
-  .btn.btn-sm.btn-default{
+  .btn.btn-lg.btn-default{
   background:-webkit-gradient(linear, 0 100%, 0 0%, from(#880223), to(#BA0330));
   border-color:#79021F #6F021D #600219;
   border-radius:0.25em;
@@ -128,8 +128,12 @@
   text-shadow:rgba(0, 0, 0, 0.0470588) 0 1px 0;
   font-size:larger;
   vertical-align: middle;
+}
+
+.btn.btn-default.btn-large a {
   line-height:1em;
   text-align:center;
+  text-decoration:none;
 }
 
 .fa.fa-github-square.fa-2x {
