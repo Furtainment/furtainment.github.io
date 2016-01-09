@@ -95,6 +95,10 @@ body {
   text-align:center;
   text-decoration:none;
 }
+
+.fa.fa-github-square.fa-2x {
+    color: #6F021D;
+}
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
