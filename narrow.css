@@ -97,7 +97,7 @@
   .header {
     margin-bottom: 30px;
   }
-  .btn.btn-lg.btn-default{
+  .btn.btn-sm.btn-default{
   background:-webkit-gradient(linear, 0 100%, 0 0%, from(#880223), to(#BA0330));
   border-color:#79021F #6F021D #600219;
   border-radius:0.25em;
@@ -115,6 +115,23 @@
   text-decoration:none;
 }
 
+ .btn.btn-lg.btn-default{
+  background:-webkit-gradient(linear, 0 100%, 0 0%, from(#880223), to(#BA0330));
+  border-color:#79021F #6F021D #600219;
+  border-radius:0.25em;
+  border-style:solid;
+  border-width:1px;
+  box-shadow:rgba(255, 255, 255, 0.2) 0 1px 0 inset, rgba(0, 0, 0, 0.0627451) 0 1px 2px;
+  color:#FFFFFF !important;
+  font-size:1em;
+  padding:1em 2em;
+  text-shadow:rgba(0, 0, 0, 0.0470588) 0 1px 0;
+  font-size:larger;
+  vertical-align: middle;
+  line-height:1em;
+  text-align:center;
+}
+
 .fa.fa-github-square.fa-2x {
     color: #6F021D;
 }
@@ -126,6 +143,12 @@
 }
 .fa.fa-paw.fa-2x {
     color: #6F021D;
+}
+
+div.tsize {
+    margin: auto;
+    width: 100%;
+	overflow:hidden;
 }
   /* Remove the bottom border on the jumbotron for visual effect */
 .jumbotron {
